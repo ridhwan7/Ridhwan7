@@ -9,6 +9,10 @@
 
 <a>[https://www.hackerrank.com/certificates/ab0d2343d164](https://www.hackerrank.com/certificates/cf1ddffbe846)</a>
 
+<b>Problem Solving</b>
+
+<a>[https://www.hackerrank.com/certificates/ab0d2343d164](https://www.hackerrank.com/certificates/0f4dbca09acf)</a>
+
 
 <h1>Projects</h1>
 
