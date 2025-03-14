@@ -23,7 +23,7 @@ I specialize in building scalable and efficient web applications using Web Techn
 
 ## 🔥 Featured Projects  
 💡 **[Dictionary](#https://github.com/ridhwan7/Dictionary)** – A simple web-based dictionary application that fetches word definitions using the [Free Dictionary API](https://dictionaryapi.dev/). .*  
-💡 **[-----](#)** – *Brief description of what it does and how it helps clients.*  
+
 
 _(More coming soon!)_  
 
