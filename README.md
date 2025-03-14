@@ -1,34 +1,39 @@
-## Hi I'm Ridwan 👋
+# Hi, I'm Ridwan! 👋  
 
-<h1> Certifications📖</h1>
-<b>Javascript</b>
+🚀 **Passionate Software Developer | Problem Solver | Data Scientist**  
 
-<a>https://www.hackerrank.com/certificates/ab0d2343d164</a>
+I specialize in building scalable and efficient web applications using Web Technologies. With strong problem-solving skills and a passion for clean, maintainable code, I help businesses create seamless digital experiences while also  helping businesses optimize their digital presence and make data-driven decisions.  
 
-<b>Rest API</b>
+---
 
-<a>[https://www.hackerrank.com/certificates/ab0d2343d164](https://www.hackerrank.com/certificates/cf1ddffbe846)</a>
+## 📖 Certifications  
+✅ **JavaScript** - [View Certificate](https://www.hackerrank.com/certificates/ab0d2343d164)  
+✅ **REST API** - [View Certificate](https://www.hackerrank.com/certificates/cf1ddffbe846)  
+✅ **Problem Solving** - [View Certificate](https://www.hackerrank.com/certificates/0f4dbca09acf)  
 
-<b>Problem Solving</b>
+---
 
-<a>[https://www.hackerrank.com/certificates/ab0d2343d164](https://www.hackerrank.com/certificates/0f4dbca09acf)</a>
+## 💼 Services I Offer  
+🔹 Frontend Web Development  
+🔹 API Design & Integration  
+🔹 Code Optimization & Performance Improvements  
+🔹 Debugging & Problem Solving  
+
+---
+
+## 🔥 Featured Projects  
+💡 **[Dictionary](#https://github.com/ridhwan7/Dictionary)** – A simple web-based dictionary application that fetches word definitions using the [Free Dictionary API](https://dictionaryapi.dev/). .*  
+💡 **[-----](#)** – *Brief description of what it does and how it helps clients.*  
+
+_(More coming soon!)_  
+
+---
+
+## 📫 Let's Work Together!  
+💬 Feel free to reach out for collaboration or freelance opportunities.  
+
+📧 **Email:** [Ridhwan1015@gmail.com](mailto:Ridhwan1015@gmail.com)  
+💼 **LinkedIn:** [ -------](#)  
 
 
-<h1>Projects</h1>
-
-
-
-<!--
-**ridhwan7/Ridhwan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's build something amazing together! 🚀  
