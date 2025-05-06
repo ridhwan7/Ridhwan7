@@ -26,7 +26,7 @@ I specialize in building scalable and efficient web applications using Web Techn
 
 💡 **[Adorned By Zahra](https://adornedbyzahra.netlify.app/)** – A Responsive Website built with Web technologies html,css and JS for a Small Scale Enterprise  .*
 
-💡 **[UltraBook](https://ultrabook5.netlify.app/)** –An Interactive Website to Advertise the World's  Most Powerful Website,the Ultrabook 5  .*
+💡 **[UltraBook](https://ultrabook5.netlify.app/)** –An Interactive Website to Advertise the World's  Most Powerful Laptop,the Ultrabook 5  .*
 
 
 _(More coming soon!)_  
@@ -39,5 +39,20 @@ _(More coming soon!)_
 📧 **Email:** [Ridhwan1015@gmail.com](mailto:Ridhwan1015@gmail.com)  
 💼 **LinkedIn:** [ -------](#)  
 
+
+
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
+![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
+![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat)
+![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 
 Let's build something amazing together! 🚀  
