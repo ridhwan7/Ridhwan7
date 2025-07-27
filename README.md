@@ -10,6 +10,7 @@ I specialize in building scalable and efficient web applications using Web Techn
 ✅ **JavaScript** - [View Certificate](https://www.hackerrank.com/certificates/ab0d2343d164)  
 ✅ **REST API** - [View Certificate](https://www.hackerrank.com/certificates/cf1ddffbe846)  
 ✅ **Problem Solving** - [View Certificate](https://www.hackerrank.com/certificates/0f4dbca09acf)  
+✅ **Python** - [View Certificate](https://www.hackerrank.com/certificates/763cf57720a4)  
 
 ---
 
