@@ -41,7 +41,7 @@ _(More coming soon!)_
 💬 Feel free to reach out for collaboration or freelance opportunities.  
 
 📧 **Email:** [Ridhwan1015@gmail.com](mailto:Ridhwan1015@gmail.com)  
-💼 **LinkedIn:** [Ridwan Olateju](#https://shorturl.at/U2kb6)  
+💼 **LinkedIn:** [Ridwan Olateju](https://shorturl.at/U2kb6)  
 
 
 
