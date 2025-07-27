@@ -15,10 +15,13 @@ I specialize in building scalable and efficient web applications using Web Techn
 ---
 
 ## 💼 Services I Offer  
-🔹 Frontend Web Development  
-🔹 API Design & Integration  
-🔹 Code Optimization & Performance Improvements  
-🔹 Debugging & Problem Solving  
+🔹 Software Development .
+
+🔹 Data Analysis and Vizualization .
+
+🔹 Code Optimization & Performance Improvements.
+
+🔹 Debugging & Problem Solving  .
 
 ---
 
@@ -38,16 +41,16 @@ _(More coming soon!)_
 💬 Feel free to reach out for collaboration or freelance opportunities.  
 
 📧 **Email:** [Ridhwan1015@gmail.com](mailto:Ridhwan1015@gmail.com)  
-💼 **LinkedIn:** [ -------](#)  
+💼 **LinkedIn:** [Ridwan Olateju](#https://shorturl.at/U2kb6)  
 
 
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-badge)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)
 ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat)
+![C Badge](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black&style=flat)
+![Blazor Badge](https://img.shields.io/badge/Blazor-512BD4.svg?style=for-the-badge&logo=Blazor&logoColor=white&style=flat)
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat)
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat)
