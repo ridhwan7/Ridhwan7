@@ -6,11 +6,6 @@ I specialize in building scalable and efficient web applications using Web Techn
 
 ---
 
-## 📖 Certifications  
-✅ **JavaScript** - [View Certificate](https://www.hackerrank.com/certificates/ab0d2343d164)  
-✅ **REST API** - [View Certificate](https://www.hackerrank.com/certificates/cf1ddffbe846)  
-✅ **Problem Solving** - [View Certificate](https://www.hackerrank.com/certificates/0f4dbca09acf)  
-✅ **Python** - [View Certificate](https://www.hackerrank.com/certificates/763cf57720a4)  
 
 ---
 
@@ -28,7 +23,7 @@ I specialize in building scalable and efficient web applications using Web Techn
 ## 🔥 Featured Projects  
 💡 **[Dictionary](https://easydictionary.netlify.app/)** – A simple web-based dictionary application that fetches word definitions using the [Free Dictionary API](https://dictionaryapi.dev/). *
 
-💡 **[Adorned By Zahra](https://adornedbyzahra.netlify.app/)** – A Responsive Website built with Web technologies html,css and JS for a Small Scale Enterprise  .*
+💡 **[The Talkative AI](https://thetalkativeai.netlify.app/)** – Hello! I'm (TIA) Talkative Intelligent Assistant, and I was built on Google Gemini 2.5 Flash, I was built  from the ground up using C#, Blazor and The Integration of The Google Gemini Api.*
 
 💡 **[UltraBook](https://ultrabook5.netlify.app/)** –An Interactive Website to Advertise the World's  Most Powerful Laptop,the Ultrabook 5  .*
 
@@ -36,7 +31,13 @@ I specialize in building scalable and efficient web applications using Web Techn
 _(More coming soon!)_  
 
 ---
+## 📖 Certifications  
+✅ **JavaScript** - [View Certificate](https://www.hackerrank.com/certificates/ab0d2343d164)  
+✅ **REST API** - [View Certificate](https://www.hackerrank.com/certificates/cf1ddffbe846)  
+✅ **Problem Solving** - [View Certificate](https://www.hackerrank.com/certificates/0f4dbca09acf)  
+✅ **Python** - [View Certificate](https://www.hackerrank.com/certificates/763cf57720a4)  
 
+---
 ## 📫 Let's Work Together!  
 💬 Feel free to reach out for collaboration or freelance opportunities.  
 
